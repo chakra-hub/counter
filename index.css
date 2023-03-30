@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.action, .buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+#modify_by{
+    width: 30px;
+    margin-left: 10px;
+}
